@@ -2,7 +2,7 @@
 
 A fun and interactive Bubble Game built using **HTML**, **CSS**, and **JavaScript**. Click on the correct bubble before time runs out and challenge your reflexes!
 
-🚀 **(https://dileep7222.github.io/Bubble_Game/)**
+🚀 ** Live Link - (https://dileep7222.github.io/Bubble_Game/)**
 
 ---
 
