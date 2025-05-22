@@ -1,5 +1,5 @@
 let score = 0;
-let timer = 6;
+let timer = 60;
 let hit=0;
 
 
